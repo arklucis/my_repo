@@ -3,11 +3,11 @@
 
 https://hub.docker.com/repository/docker/alekc47/custom-nginx/general
 
-#Заданиие 2
+#Задание 2
 
 ![Задание_2](https://github.com/arklucis/my_repo/assets/154414081/bc969441-15f7-4636-8ffa-9f186b13788c)
 
-#Заданиие 3
+#Задание 3
 ![Задание_3 0](https://github.com/arklucis/my_repo/assets/154414081/3a5532ae-3719-45d6-9834-08f5f4afa3ec)
 
 3.1
@@ -19,10 +19,10 @@ https://hub.docker.com/repository/docker/alekc47/custom-nginx/general
 3.3
 ![Задание_3 3](https://github.com/arklucis/my_repo/assets/154414081/b1503ef0-d4f8-478d-b3c3-ab1358faed08)
 
-#Заданиие 4
+#Задание 4
 ![Задание_4](https://github.com/arklucis/my_repo/assets/154414081/5e121453-a0db-422d-98a0-28f639baa680)
 
-#Заданиие 5
+#Задание 5
 
 5.2
 ![Задание_5 2](https://github.com/arklucis/my_repo/assets/154414081/16f3f96b-efa9-427b-af25-841b637ca49e)
