@@ -42,7 +42,7 @@ https://hub.docker.com/repository/docker/alekc47/custom-nginx/general
 ![Задание_5 5](https://github.com/arklucis/my_repo/assets/154414081/ae4d9b99-569f-493a-a371-b49bb8f2660c)
 
 5.6
-![Задание_5 6](https://github.com/arklucis/my_repo/assets/154414081/6833406b-af8b-400f-bceb-3214b70bc748)
+![Задание_5 6](https://github.com/arklucis/my_repo/assets/154414081/7b3c58e3-fe00-4ce7-ae96-1177005c0166)
 
 5.7
 ![Задание_5 7](https://github.com/arklucis/my_repo/assets/154414081/1138d9fe-a85d-4904-b592-cca2b583ad4d)
