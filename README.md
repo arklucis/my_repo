@@ -45,5 +45,6 @@ https://hub.docker.com/repository/docker/alekc47/custom-nginx/general
 ![Задание_5 6](https://github.com/arklucis/my_repo/assets/154414081/7b3c58e3-fe00-4ce7-ae96-1177005c0166)
 
 5.7
-![Задание_5 7](https://github.com/arklucis/my_repo/assets/154414081/1138d9fe-a85d-4904-b592-cca2b583ad4d)
-Здесь чуть не понял, что имеется в виду "Погасите тестовый стенд ОДНОЙ(обязательно!!) командой." - Остановить все контейнеры (куда входит тестовый стенд), или же удалить контейнеры с ключем -f или не то и не другое
+![Задание_5 7](https://github.com/arklucis/my_repo/assets/154414081/5e034518-25a9-436a-8a35-081f8d906bc7)
+можно и через "docker compose down" но я не стал удалять весь кластер
+
