@@ -1,6 +1,6 @@
 ДЗ-05-virt-04
 
-Задание 2
+Задание 2 (*)
 
 ![05-virt-04-Задание-2](https://github.com/arklucis/my_repo/assets/154414081/3ea70c8e-9120-4957-91fe-07f357ed6b1a)
 
