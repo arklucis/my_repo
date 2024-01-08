@@ -20,9 +20,9 @@
 ![05-virt-04-Задание-4 1](https://github.com/arklucis/my_repo/assets/154414081/8eadd67a-0fa5-47e6-8b49-2f923929db10)
 
 
-Задание 5
+Задание 5 (*)
 
----------------
+![05-virt-04-Задание-5](https://github.com/arklucis/my_repo/assets/154414081/a07e3d54-0a22-40ae-a348-3121eb0f28dd)
 
 
 Задание 6
